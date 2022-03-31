@@ -1,0 +1,19 @@
+name: homl
+channels:
+  - defaults
+dependencies:
+  - python
+  - jupyter
+  - notebook
+  - matplotlib
+  - plotly
+  - pandas
+  - numpy
+  - scikit-learn
+#  - pip
+#  - pip:
+#    - 
+#prefix: /Users/nirbhaisingh/opt/anaconda3/envs/dpc2022
+#variables:
+#  VAR1: valueA
+#  VAR2: valueB
